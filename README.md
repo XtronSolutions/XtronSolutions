@@ -4,8 +4,6 @@
 
 I design and build scalable digital products — from full-stack web platforms and AI-powered automation systems to high-performance multiplayer games and blockchain-based applications.
 
-Currently building at Builderz — a Web3 Solana development agency.
-
 ---
 
 ## 💡 About Me
